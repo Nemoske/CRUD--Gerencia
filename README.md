@@ -1,2 +1,17 @@
-# CRUD--GERENCIA
-# O programa tem capacidade de CRIAR, LER, ATUALIZAR e DELETAR.
+
+##  CRUD Java
+
+
+## Autor
+
+- [@Luan Miranda](https://github.com/Nemoske)
+
+
+## Funcionalidades
+
+- CRIAR
+- LER
+- ATUALIZAR
+- DELETAR
+- SOMAR VALORES
+
